@@ -1,0 +1,70 @@
+
+body {
+    padding: 25px;
+    margin: 0;
+}
+
+.first {
+    border: 5px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    
+}
+
+.purplebox {
+    background-color: #8A2CE2;
+    height: 150px;
+    width: 50px;
+    display: inline-block;
+}
+
+.greenbox {
+    background-color: #228B22;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    margin: 0 50px;
+}
+
+.bluecircle {
+    background-color: #87CEEB;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.second {
+    height: 27vh;
+    border: 5px dotted black;
+    padding: 30px;
+    margin-top: 25px;
+}
+
+.beigebox {
+    background-color: #FFFACD;
+    height: 200px;
+    width: 100%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.third {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 100px;
+    box-sizing: border-box;
+    margin: 25px auto;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+    letter-spacing: 10px;
+    width: 100%;
+}
